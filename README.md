@@ -1,5 +1,6 @@
 <h1 align="center">Hi i´m Marcelo Bran 🦦</h1>
-<h3 align="center">I´m currently studying systems engineering, I work as a Front end dev and hibrid mobile apps jr, I am currently expanding on the Backend side to become FullStack🤠</h3>
+<h3 align="center">I am currently studying systems engineering, I work as a Hybrid Application Developer, I am also dedicated to Front End and Backend development.
+I am currently expanding in the Infrastructure and deployments part to become a more complete FullStack 🤠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelob12&label=Profile%20views&color=0e75b6&style=flat" alt="marcelob12" /> </p>
 

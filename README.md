@@ -6,7 +6,7 @@ I am currently expanding in the Infrastructure and deployments part to become a 
 
 - 👾 I’m currently working on **PremierTech** https://premte.com/
 
-- 🌱 I’m currently learning **Hibrid apps with Ionic, Angular, Capacitor**
+- 🌱 I’m  **Hibrid apps with Ionic, Angular, Capacitor** developer
 
 - 📫 How to contact me **marcelobran11@gmail.com**
 
